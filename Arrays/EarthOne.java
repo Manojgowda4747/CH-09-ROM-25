@@ -1,7 +1,14 @@
 class EarthOne{
 
-static String continents [] = {"Asia", "Africa", "North America", "South America", "Antarctica", "Europe", "Australia"};
+static String asia = "Asia";
+static String africa = "Africa";
+static String northAmerica = "North America";
+static String southAmerica = "South America";
+static String antarctica = "Antarctica";
+static String europe = "Europe";
+static String australia = "Australia";
 
+static String continents[] = {asia, africa, northAmerica, southAmerica, antarctica, europe, australia};
 
           public static void main(String args[]){
 			  

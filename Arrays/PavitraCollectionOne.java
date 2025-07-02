@@ -1,6 +1,17 @@
 class PavitraCollectionOne{
 
-   static String brandNames[] =  {"Zara", "H&M", "Levi's", "Nike", "Adidas","Puma", "FabIndia", "W for Woman", "Biba", "Forever 21"};
+static String zara = "Zara";
+static String hAndM = "H&M";
+static String levis = "Levi's";
+static String nike = "Nike";
+static String adidas = "Adidas";
+static String puma = "Puma";
+static String fabIndia = "FabIndia";
+static String wForWoman = "W for Woman";
+static String biba = "Biba";
+static String forever21 = "Forever 21";
+
+static String brandNames[] = {zara, hAndM, levis, nike, adidas,puma, fabIndia, wForWoman, biba, forever21};
    
    public static void main(String items[]){
    

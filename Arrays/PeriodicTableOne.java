@@ -1,6 +1,19 @@
 class PeriodicTableOne{
 
-   static String elements[] ={"Boron", "Zinc", "Argon", "Cobalt", "Nickel","Copper", "Bromine", "Silver", "Iodine", "Tin", "Lead","Oxgen"};
+
+static String zinc = "Zinc";
+static String argon = "Argon";
+static String cobalt = "Cobalt";
+static String nickel = "Nickel";
+static String copper = "Copper";
+static String bromine = "Bromine";
+static String silver = "Silver";
+static String iodine = "Iodine";
+static String tin = "Tin";
+static String lead = "Lead";
+static String oxygen = "Oxgen";
+
+static String elements[] = {boron, zinc, argon, cobalt, nickel, copper,bromine, silver, iodine, tin, lead, oxygen};
    
    public static void main(String formules[]){
    

@@ -1,7 +1,17 @@
 class PlayStationOne{
 
-    static  String gameNames [] = {"God of War", "Spider-Man", "Horizon Zero Dawn", "The Last of Us", "Uncharted 4","Ghost of Tsushima", "Bloodborne", "Gran Turismo 7", "Ratchet & Clank", "Days Gone"};
+static String godOfWar = "God of War";
+static String spiderMan = "Spider-Man";
+static String horizonZeroDawn = "Horizon Zero Dawn";
+static String theLastOfUs = "The Last of Us";
+static String uncharted4 = "Uncharted 4";
+static String ghostOfTsushima = "Ghost of Tsushima";
+static String bloodborne = "Bloodborne";
+static String granTurismo7 = "Gran Turismo 7";
+static String ratchetAndClank = "Ratchet & Clank";
+static String daysGone = "Days Gone";
 
+static String gameNames[] = {godOfWar, spiderMan, horizonZeroDawn, theLastOfUs, uncharted4,ghostOfTsushima, bloodborne, granTurismo7, ratchetAndClank, daysGone};
 
 
  public static void main(String game[]){
